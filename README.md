@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## Hi 👋 I'm Jihyeon 
 <!--
 **jihyeon-songb/jihyeon-songb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
